@@ -418,3 +418,36 @@ img {
 .vtdev {
   color: #000000;
 }
+
+
+
+/* card presentation */ 
+
+body{
+  background: linear-gradient(to right, #FF9A60, #FF7558);
+}
+
+h2{
+  font-size: 20px;
+}
+h3{
+  color: #cfcfcf;
+}
+
+h1,
+
+
+.wrap{
+  background-color: #fff;
+  width: 80%;
+  margin: 0 auto;
+  height: 400px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  margin-top: 100px;
+    
+
+  }
+
+  .desc {
+    color: #000000;
+  }
