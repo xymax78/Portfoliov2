@@ -423,22 +423,18 @@ img {
 
 /* card presentation */ 
 
-body{
-  background: linear-gradient(to right, #FF9A60, #FF7558);
-}
+
 
 h2{
   font-size: 20px;
 }
-h3{
-  color: #cfcfcf;
-}
+
 
 h1,
 
 
 .wrap{
-  background-color: #fff;
+  background-color: black;
   width: 80%;
   margin: 0 auto;
   height: 400px;
@@ -449,5 +445,5 @@ h1,
   }
 
   .desc {
-    color: #000000;
+    color: white;
   }
