@@ -444,3 +444,7 @@ h2{
   .desc {
     color: white;
   }
+
+  .card {
+    position: center ;
+  }
