@@ -103,3 +103,35 @@ img {
     background-color: black;
   }
   
+
+  /* cezfez */ 
+
+  
+.navbar{
+  justify-content: start !important;
+}
+.navbar-brand{
+  Margin-left: 20px;
+  }
+
+
+
+.fond {
+  background-color: black;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 30px;
+  color: #777;
+
+}
+
+
+.background {
+    background-image: url("https://image.freepik.com/vecteurs-libre/fond-texture-metallique_53876-89255.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    }

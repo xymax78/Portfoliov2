@@ -157,7 +157,7 @@ body {
   font-size: 12px;
   line-height: 30px;
   color: #777;
-  background: #4CAF50;
+
 }
 
 .container {
@@ -444,7 +444,4 @@ h2{
   .desc {
     color: white;
   }
-
-  .card {
-    position: center ;
-  }
+  
